@@ -39,7 +39,7 @@ Clarity and correctness are important in writing for effective communication. Pr
     * Have a second individual mark or suggest revisions that may not have come to you.
     * Make sure not to devalue their time by making as many corrections as possible before presenting.
     * Getting additional readers to look over the work is generally better.
-	![](Proofread.png)
+	![](Proofread.PNG)
 7. **Consider and apply changes and suggestions from the other individuals**
     * Reconsider step 1 once again while revising.
 8. **Repeat these steps.**
