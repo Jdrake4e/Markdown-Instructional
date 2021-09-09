@@ -1,6 +1,8 @@
 # How to Proofread 
 ### Introduction
 ![](ManReads.png)
+
+
 Clarity and correctness are important in writing for effective communication. Proofreading is the process of looking at a written piece and locating inefficiencies or errors with it. Using a standardized process reduces the time required to proofread and improves the final product. 
 
 ### Resources Needed
