@@ -23,7 +23,10 @@ Clarity and correctness are important in writing for effective communication. Pr
     * Examples of programs that can be used are Microsoft Word and Grammarly.
     * Many errors can be found this way to begin the process.  
     * Be cautious as false positives can occur.
-	| ![](WordIcon.png) | ![](GrammarlyIcon.png) |
+	
+	
+	![](WordIcon.png) 
+	![](GrammarlyIcon.png) 
 3. **Read the work aloud carefully.**
     * Many subtle errors and missing words can be found this way.
 4. **Print the document out.**
